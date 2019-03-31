@@ -1,0 +1,6 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "LocationReminder",
+  "bundledWebRuntime": false,
+  "webDir": "build"
+}

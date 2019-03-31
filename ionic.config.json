@@ -1,0 +1,7 @@
+{
+  "name": "LocationReminder",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
